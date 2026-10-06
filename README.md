@@ -15,11 +15,11 @@ I am interested in improving how models learn from limited data and building rel
 ## Selected Projects
 
 ### DA-BioNER
-A data augmentation framework for few-shot named entity recognition, combining multiple NER models with LLM-based annotation selection.
+A data augmentation framework for few-shot named entity recognition, combining multiple NER models with LLM-based annotation refinement while preserving the original text.
 
-[Project](https://github.com/yesol-park/DA-BioNER) · [Official Code](https://github.com/DMnBI/DA-BioNER)
+[Paper](https://doi.org/10.1093/bioinformatics/btag332) · [Project](https://github.com/yesol-park/DA-BioNER) · [Official Code](https://github.com/DMnBI/DA-BioNER)
 
 ### MDI-predictor
 A relation extraction framework combining deep learning and syntactic parsing to identify microbe–disease relations and extract descriptive relation expressions from biomedical literature.
 
-[Project](https://github.com/yesol-park/mdi_predictor) · [Official Code](https://github.com/DMnBI/mdi_predictor)
+[Paper](https://doi.org/10.1038/s41598-021-83966-8) · [Project](https://github.com/yesol-park/mdi_predictor) · [Official Code](https://github.com/DMnBI/mdi_predictor)
